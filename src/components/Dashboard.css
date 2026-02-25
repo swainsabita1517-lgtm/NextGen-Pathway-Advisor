@@ -1,0 +1,90 @@
+.dashboard-container {
+  display: flex;
+  height: 100vh;
+  font-family: Arial, sans-serif;
+}
+
+/* LEFT SIDEBAR */
+.sidebar {
+  width: 250px;
+  background: #1b5e20;
+  color: white;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.dashboard-title {
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.user-name {
+  font-size: 14px;
+  margin-bottom: 20px;
+  color: #c8e6c9;
+}
+
+.menu {
+  list-style: none;
+  padding: 0;
+  flex: 1;
+}
+
+.menu li {
+  margin: 15px 0;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.menu li:hover {
+  color: #a5d6a7;
+}
+
+.logout-btn {
+  padding: 8px;
+  background: #d32f2f;
+  border: none;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.logout-btn:hover {
+  background: #b71c1c;
+}
+
+/* RIGHT CONTENT */
+.main-content {
+  flex: 1;
+  padding: 40px;
+  background: #f1f8e9;
+}
+
+.main-content h3 {
+  font-size: 26px;
+  margin-bottom: 10px;
+}
+
+.content-box {
+  background: white;
+  padding: 25px;
+  border-radius: 10px;
+  margin-top: 25px;
+  box-shadow: 0px 4px 15px rgba(0,0,0,0.1);
+}
+
+.start-btn {
+  margin-top: 15px;
+  padding: 10px 15px;
+  background: #43a047;
+  border: none;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.start-btn:hover {
+  background: #2e7d32;
+}

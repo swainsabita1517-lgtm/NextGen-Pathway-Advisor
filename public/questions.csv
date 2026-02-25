@@ -1,0 +1,151 @@
+id,question,Engineering,IT,Medical,Commerce
+1,I enjoy solving logical problems,5,4,2,2
+2,I like writing computer programs,3,5,2,1
+3,Debugging code excites me,4,5,1,1
+4,I enjoy learning new programming languages,3,5,1,1
+5,I like building applications,4,5,1,2
+6,I like analyzing data to find patterns,3,5,2,3
+7,Statistics interests me,2,5,2,3
+8,I enjoy working with numbers,3,4,2,4
+9,I want to work with AI or ML,2,5,1,1
+10,I enjoy data visualization,2,5,1,1
+11,I enjoy designing user interfaces,2,5,1,1
+12,I like creative visual work,1,4,1,2
+13,I enjoy working with colors and layouts,1,5,1,1
+14,I like building websites,2,5,1,1
+15,I enjoy improving user experience,1,5,1,1
+16,I am interested in cybersecurity,2,5,1,1
+17,I like protecting systems from attacks,2,5,1,1
+18,I enjoy learning about computer networks,3,5,1,1
+19,I want to work in ethical hacking,2,5,1,1
+20,I am curious about system vulnerabilities,2,5,1,1
+21,I enjoy building machines,5,3,1,1
+22,I like understanding how engines work,5,3,1,1
+23,I enjoy working with electrical circuits,5,3,1,1
+24,I like electronics projects,5,3,1,1
+25,I enjoy physics-based problem solving,5,3,1,1
+26,I like managing people and tasks,2,2,2,5
+27,I enjoy planning and organizing work,2,2,2,5
+28,I like leadership roles,3,3,2,5
+29,I enjoy decision making,2,2,2,5
+30,I want to run my own business,2,2,1,5
+31,I enjoy working with accounts,1,1,1,5
+32,I like managing finances,1,2,1,5
+33,I am interested in stock markets,1,2,1,5
+34,I like auditing work,1,1,1,5
+35,I enjoy budgeting and cost control,1,1,1,5
+36,I enjoy content creation,1,2,1,3
+37,I like storytelling,1,1,1,3
+38,I enjoy social media work,1,2,1,3
+39,I enjoy video editing,1,2,1,2
+40,I like photography,1,2,1,2
+41,I enjoy teaching others,2,2,3,2
+42,I like explaining concepts,2,2,3,2
+43,I enjoy mentoring students,2,2,3,2
+44,I enjoy academic research,3,3,4,2
+45,I like continuous learning,3,3,3,2
+46,I want to help people medically,1,1,5,1
+47,I am interested in human biology,1,1,5,1
+48,I enjoy caring for patients,1,1,5,1
+49,I am interested in pharmacy,1,1,5,1
+50,I like medical research,2,2,5,1
+51,I enjoy designing buildings,5,2,1,2
+52,I like construction planning,5,2,1,2
+53,I enjoy site supervision,5,2,1,2
+54,I like urban planning,5,2,1,2
+55,I enjoy structural design,5,2,1,2
+56,I am interested in law,1,1,3,4
+57,I enjoy debating,1,1,3,4
+58,I want to work in civil services,2,2,2,5
+59,I like public administration,2,2,2,5
+60,I enjoy policy making,2,2,3,5
+61,I like working with plants,4,1,2,2
+62,I enjoy environmental protection,4,1,3,2
+63,I like sustainable practices,4,2,2,2
+64,I enjoy outdoor fieldwork,4,1,2,2
+65,I want to work in rural development,4,1,2,3
+66,I like teamwork,3,3,3,3
+67,I like independent work,3,3,2,3
+68,I enjoy problem-solving challenges,4,4,3,2
+69,I enjoy creative freedom,2,4,2,3
+70,I like structured work,4,3,2,4
+71,I enjoy building mobile applications,3,5,1,1
+72,I like working with APIs,2,5,1,1
+73,I enjoy cloud platforms like AWS or Azure,2,5,1,1
+74,I like automating tasks,3,5,1,1
+75,I enjoy testing software products,3,5,1,1
+76,I like improving system performance,3,5,1,1
+77,I enjoy open-source contribution,2,5,1,1
+78,I like learning new tech stacks,3,5,1,1
+79,I enjoy database design,3,5,1,1
+80,I like system architecture design,3,5,1,1
+81,I enjoy working with large datasets,2,5,1,2
+82,I like predicting outcomes using data,2,5,1,2
+83,I enjoy machine learning concepts,2,5,1,2
+84,I like building recommendation systems,2,5,1,2
+85,I enjoy mathematical modeling,3,5,1,2
+86,I like data-driven decision making,2,5,1,3
+87,I enjoy research-based work,3,4,2,2
+88,I like AI ethics and fairness,2,5,1,1
+89,I enjoy natural language processing,2,5,1,1
+90,I like computer vision tasks,2,5,1,1
+91,I enjoy leading a team,2,3,2,5
+92,I like setting project deadlines,2,3,2,5
+93,I enjoy business strategy,1,3,1,5
+94,I like analyzing market trends,1,3,1,5
+95,I enjoy customer interaction,1,3,1,5
+96,I like sales-oriented work,1,2,1,5
+97,I enjoy startup environments,1,3,1,5
+98,I like managing company operations,1,3,1,5
+99,I enjoy financial planning,1,2,1,5
+100,I like negotiating deals,1,2,1,5
+101,I enjoy animation work,2,3,1,2
+102,I like digital illustration,2,3,1,2
+103,I enjoy branding projects,2,3,1,2
+104,I like motion graphics,2,3,1,2
+105,I enjoy music production,1,2,1,2
+106,I like acting or stage performance,1,2,1,2
+107,I enjoy content marketing,1,2,1,3
+108,I like podcasting,1,2,1,2
+109,I enjoy fashion styling,1,2,1,2
+110,I like creative direction roles,2,3,1,2
+111,I enjoy social work,1,1,5,2
+112,I like helping underprivileged communities,1,1,5,2
+113,I enjoy counseling people,1,1,5,2
+114,I like psychology-related work,1,1,5,2
+115,I enjoy human resource management,2,3,2,4
+116,I like training and development,2,3,2,4
+117,I enjoy travel planning,1,2,1,3
+118,I like event management,1,2,1,3
+119,I enjoy hospitality services,1,2,1,3
+120,I like working in aviation,2,3,1,2
+121,I enjoy high-pressure environments,3,3,3,3
+122,I like disciplined routines,3,2,3,3
+123,I enjoy risk-taking,2,3,1,4
+124,I prefer stable jobs,4,2,3,5
+125,I enjoy creative problem solving,3,4,2,3
+126,I like independent freelancing,2,4,1,3
+127,I enjoy teamwork environments,3,3,2,4
+128,I like multitasking,3,3,2,3
+129,I enjoy learning continuously,3,4,2,3
+130,I like structured career paths,3,3,2,4
+131,I enjoy mentoring juniors,2,3,3,3
+132,I like public speaking,1,2,3,4
+133,I enjoy leadership challenges,3,3,2,4
+134,I like innovation-driven roles,3,4,2,3
+135,I enjoy ethical responsibility,3,2,3,3
+136,I like policy implementation,2,2,3,4
+137,I enjoy international exposure,2,3,2,4
+138,I like cross-cultural work,2,3,2,4
+139,I enjoy long-term planning,3,3,2,4
+140,I like solving real-world problems,3,4,2,3
+141,I enjoy innovation competitions,2,3,2,3
+142,I like interdisciplinary work,3,4,2,3
+143,I enjoy technology for social good,3,5,1,2
+144,I like sustainability projects,3,3,2,2
+145,I enjoy research & development,3,4,2,2
+146,I like futuristic technologies,3,5,1,2
+147,I enjoy mentoring startups,2,3,2,3
+148,I like community leadership,2,2,3,3
+149,I enjoy policy and governance,2,2,3,4
+150,I like creating impact at scale,2,2,3,4
